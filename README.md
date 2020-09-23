@@ -6,7 +6,7 @@
 
 **bold**
 
-<sub align="center"><i><a>italic subtext w/link center aligned<a/></i></sub>
+<divalign="center"><sub><i><a>italic subtext w/link center aligned<a/></i></sub></div>
 
 email - <khiz_k@hotmail.com>
 
