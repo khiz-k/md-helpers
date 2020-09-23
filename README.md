@@ -6,8 +6,5 @@
 
 **bold**
 
-skinny line
+line
 #
-
-thick line
----
