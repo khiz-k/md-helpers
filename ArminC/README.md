@@ -146,9 +146,3 @@ Reach out to me at one of the following places:
 ## Donate
 
 [![Donate via Steam](https://img.shields.io/badge/Donate%20via-Steam-blue.svg?&style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/tradeoffer/new/?partner=133646824&token=XiRncDom)
-
-## License
-
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-orange.svg?style=flat-square)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-
-- Copyright © [ArminC](https://arminc.ga "ArminC Directory Database").
