@@ -5,3 +5,9 @@
 `wrap`
 
 **bold**
+
+skinny line
+#
+
+thick line
+---
